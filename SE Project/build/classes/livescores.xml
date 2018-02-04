@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>Cricinfo Live Scores</title>
+<ttl>2</ttl>
+<link>http://www.cricinfo.com</link>
+<description>Latest scores from Cricinfo</description>
+<copyright>(c)Cricinfo</copyright>
+<language>en-gb</language>
+<pubDate>Sun, 02 Apr 2017 19:08:02 +0000</pubDate>
+<item>
+<title>United Arab Emirates 206/10 * v Papua New Guinea 232/8 </title>
+<link>http://www.cricinfo.com/ci/engine/match/1068737.html?CMP=OTC-RSS </link>
+<description>United Arab Emirates 206/10 * v Papua New Guinea 232/8 </description>
+ <guid>http://www.cricinfo.com/ci/engine/match/1068737.html</guid> </item>
+<item>
+<title>Northerns 251/3 * v Namibia 245/10 </title>
+<link>http://www.cricinfo.com/ci/engine/match/1025061.html?CMP=OTC-RSS </link>
+<description>Northerns 251/3 * v Namibia 245/10 </description>
+ <guid>http://www.cricinfo.com/ci/engine/match/1025061.html</guid> </item>
+<item>
+<title>Cambridge MCCU 15/2 * v Lancashire 338/6 </title>
+<link>http://www.cricinfo.com/ci/engine/match/1068513.html?CMP=OTC-RSS </link>
+<description>Cambridge MCCU 15/2 * v Lancashire 338/6 </description>
+ <guid>http://www.cricinfo.com/ci/engine/match/1068513.html</guid> </item>
+<item>
+<title>Essex 333/10  v Durham MCCU 66/3 *</title>
+<link>http://www.cricinfo.com/ci/engine/match/1068517.html?CMP=OTC-RSS </link>
+<description>Essex 333/10  v Durham MCCU 66/3 *</description>
+ <guid>http://www.cricinfo.com/ci/engine/match/1068517.html</guid> </item>
+<item>
+<title>Hampshire 289/10  v Cardiff MCCU 59/6 *</title>
+<link>http://www.cricinfo.com/ci/engine/match/1068518.html?CMP=OTC-RSS </link>
+<description>Hampshire 289/10  v Cardiff MCCU 59/6 *</description>
+ <guid>http://www.cricinfo.com/ci/engine/match/1068518.html</guid> </item>
+<item>
+<title>Northamptonshire 435/6  v Loughborough MCCU 37/1 *</title>
+<link>http://www.cricinfo.com/ci/engine/match/1068516.html?CMP=OTC-RSS </link>
+<description>Northamptonshire 435/6  v Loughborough MCCU 37/1 *</description>
+ <guid>http://www.cricinfo.com/ci/engine/match/1068516.html</guid> </item>
+<item>
+<title>Oxford MCCU 42/2 * v Warwickshire 285/4 </title>
+<link>http://www.cricinfo.com/ci/engine/match/1068515.html?CMP=OTC-RSS </link>
+<description>Oxford MCCU 42/2 * v Warwickshire 285/4 </description>
+ <guid>http://www.cricinfo.com/ci/engine/match/1068515.html</guid> </item>
+<item>
+<title>Yorkshire 179/1 * v Leeds/Bradford MCCU 137/10 </title>
+<link>http://www.cricinfo.com/ci/engine/match/1068514.html?CMP=OTC-RSS </link>
+<description>Yorkshire 179/1 * v Leeds/Bradford MCCU 137/10 </description>
+ <guid>http://www.cricinfo.com/ci/engine/match/1068514.html</guid> </item>
+<item>
+<title>West Indies 124/8  v Pakistan 83/1 *</title>
+<link>http://www.cricinfo.com/ci/engine/match/1085496.html?CMP=OTC-RSS </link>
+<description>West Indies 124/8  v Pakistan 83/1 *</description>
+ <guid>http://www.cricinfo.com/ci/engine/match/1085496.html</guid> </item>
+<item>
+<title>Pakistan Under-23s v Sri Lanka Under-23s</title>
+<link>http://www.cricinfo.com/ci/engine/match/1086799.html?CMP=OTC-RSS </link>
+<description>Pakistan Under-23s v Sri Lanka Under-23s</description>
+ <guid>http://www.cricinfo.com/ci/engine/match/1086799.html</guid> </item>
+</channel>
+</rss>
